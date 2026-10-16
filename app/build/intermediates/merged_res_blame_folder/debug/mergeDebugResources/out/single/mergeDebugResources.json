@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.healthtracker.app-debug-31:/layout_activity_exercise.xml.flat",
+        "source": "com.example.healthtracker.app-main-33:/layout/activity_exercise.xml"
+    },
+    {
+        "merged": "com.example.healthtracker.app-debug-31:/layout_activity_register.xml.flat",
+        "source": "com.example.healthtracker.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.healthtracker.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.healthtracker.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.healthtracker.app-debug-31:/layout_activity_health_input.xml.flat",
+        "source": "com.example.healthtracker.app-main-33:/layout/activity_health_input.xml"
+    },
+    {
+        "merged": "com.example.healthtracker.app-debug-31:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.healthtracker.app-main-33:/layout/activity_dashboard.xml"
+    }
+]

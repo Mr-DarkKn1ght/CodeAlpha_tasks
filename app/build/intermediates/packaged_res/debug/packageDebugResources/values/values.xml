@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#202124</color>
+    <color name="gray">#757575</color>
+    <color name="green">#2E7D32</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#E8F5E9</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Health Tracker</string>
+    <style name="Theme.HealthTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorSecondary">@color/green</item>
+        
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">@color/green_dark</item>
+    </style>
+</resources>

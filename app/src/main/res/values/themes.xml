@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HealthTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorSecondary">@color/green</item>
+        <!-- Changed "sans" to "sans-serif" to fix NullPointerException when LayoutLib attempts to load font asset stream in preview -->
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">@color/green_dark</item>
+    </style>
+</resources>
